@@ -14,7 +14,6 @@ const Home = () => {
         <Suspense fallback={<Loader />}>
           <directionalLight />
           <ambientLight />
-
           <pointLight />
           <spotLight />
           <hemisphereLight />
