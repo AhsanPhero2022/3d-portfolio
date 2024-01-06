@@ -9,7 +9,9 @@ const HomeInfo = ({ currentStage }) => {
         Hi, I'm
         <span className="font-semibold mx-2 text-white">Adrian</span>
         👋
-        <br />A Software Engineer from Croatia 🇭🇷
+        <br />A web Developer based in Bangladesh. <br />
+        I'm a self-taught developer with a passion for building
+        <span className="font-semibold mx-2 text-white">Frontend</span>
       </h1>
     );
 
